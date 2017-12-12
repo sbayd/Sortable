@@ -1,3 +1,5 @@
+#This fork is no longer maintained please use the original repository, https://github.com/RubaXa/Sortable
+
 # Sortable
 Sortable is a minimalist JavaScript library for reorderable drag-and-drop lists.
 
